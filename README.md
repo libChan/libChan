@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Xinru Shan's GitHub Stars](https://github-readme-stats.vercel.app/api?username=libChan&count_private=true)]()
+[![Xinru Shan's GitHub Stars](https://github-readme-stats.vercel.app/api?username=libChan&count_private=true&show_icons=true)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=libChan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - :mortar_board: postgraduate at [HIT](http://www.hit.edu.cn), _MSc in Computer Science_.
 - ⚡ Java / C++ / Python.
-- 🏃 Music / Guitar / Badminton /Reading.
+- 🏃 Music / Guitar / Badminton / Reading.
 - :dart: Currently learning DataBase System [CMU15-445](https://15445.courses.cs.cmu.edu/fall2020/).
